@@ -1,4 +1,8 @@
 _repo: The-Fourth-Generation_50177
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50177-h/images/cover.jpg
 creator:
   author:
     agent_name: Besant, Walter
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5404
     wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50177#The-Fourth-Generation
 gutenberg_issued: '2015-10-10'
 gutenberg_type: Text
 identifiers:
